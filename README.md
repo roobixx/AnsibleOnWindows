@@ -1,4 +1,4 @@
-# AnsiblePacked
+# Ansible on Windows
 
 This work is based on the scripts that can be found here: [LINK](https://gist.github.com/zaenk/20178e637299404dcdcc1ff4667f24d7)
 
